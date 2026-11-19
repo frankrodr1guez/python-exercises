@@ -1,0 +1,2 @@
+# python-exercises
+Daily practice
